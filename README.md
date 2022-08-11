@@ -13,12 +13,13 @@
 package xyz.terrifictable;
 
 public class GitHub {
-    public static String[] contact      = new String[3];
-    public static String[] languages    = new String[12];
-    public static String[] projects     = new String[1];
-    public static String[] links        = new String[4];
-    public static String[] tools        = new String[12];
+    public static String[] info         = new String[1];
+    public static String[] projects     = new String[2];
     public static String[] learning     = new String[3];
+    public static String[] contact      = new String[3];
+    public static String[] links        = new String[4];
+    public static String[] languages    = new String[12];
+    public static String[] tools        = new String[12];
 
     /**
      * @author TerrificTable55
@@ -54,6 +55,7 @@ public class GitHub {
         languages[11]   = "VLang";
         
         projects[0]     = "A terminal / console...";
+        info[1]         = "Most of my projects, I start and never finish... or work on again";
         
         learning[0]     = "OpenGL";
         learning[1]     = "MORE programming languages";
