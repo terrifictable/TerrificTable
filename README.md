@@ -18,6 +18,7 @@ public class GitHub {
     public static String[] projects     = new String[1];
     public static String[] links        = new String[4];
     public static String[] tools        = new String[12];
+    public static String[] learning     = new String[3];
 
     /**
      * @author TerrificTable55
@@ -52,7 +53,11 @@ public class GitHub {
         languages[10]   = "GoLang";
         languages[11]   = "VLang";
         
-        projects[0]     = "Nothing...";
+        projects[0]     = "A terminal / console...";
+        
+        learning[0]     = "OpenGL";
+        learning[1]     = "MORE programming languages";
+        learning[2]     = "Embedded c++";
         
         tools[0]    = "IntelliJ IDEA";
         tools[1]    = "GoLand";
