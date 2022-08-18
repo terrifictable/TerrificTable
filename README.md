@@ -3,7 +3,7 @@
 </div>
 
 
-<img href="terrifictable.github.io" src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io"><img href="terrifictable.xyz" src="https://img.shields.io/website?label=terrifictable.xyz&style=for-the-badge&url=https%3A%2F%2Fterrifictable.xyz"><img href="terrifictable.pw" src="https://img.shields.io/website?label=terrifictable.pw&style=for-the-badge&url=https%3A%2F%2Fterrifictable.pw"><br>
+<img href="terrifictable.github.io" src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io"><img href="terrifictable.xyz" src="https://img.shields.io/website?label=terrifictable.xyz&style=for-the-badge&url=https%3A%2F%2Fterrifictable.xyz"><img href="terrifictable.pw" src="https://img.shields.io/website?label=terrifictable.pw&style=for-the-badge&url=https%3A%2F%2Fterrifictable.pw"><img href="terrifictable.pw" src="https://img.shields.io/website?label=noway-client.github.io&style=for-the-badge&url=https%3A%2F%2Fnoway-client.github.io"><br>
 
 <img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square"><img src="https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social">
 <br><br><br>
