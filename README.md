@@ -16,7 +16,7 @@ public class GitHub {
     public static String[] info         = new String[1];
     public static String[] projects     = new String[2];
     public static String[] learning     = new String[3];
-    public static String[] contact      = new String[3];
+    public static String[] contact      = new String[4];
     public static String[] links        = new String[4];
     public static String[] languages    = new String[12];
     public static String[] tools        = new String[12];
@@ -34,7 +34,8 @@ public class GitHub {
 
         contact[0] = "Discord: TerrificTable55#6998";
         contact[1] = "Twitter: @TerrificTable";
-        contact[2] = "terrifictable@terrifictable.xyz";
+        contact[2] = "E-Mail: terrifictable@terrifictable.xyz";
+        contact[3] = "Matrix: terrifictable.lol | matrix.terrifictable.pw";
         
         links[0]    = "https://linktr.ee/TerrificTable55";
         links[1]    = "https://terrifictable.github.io";
