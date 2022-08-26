@@ -35,7 +35,7 @@ public class GitHub {
         contact[0] = "Discord: TerrificTable55#6998";
         contact[1] = "Twitter: @TerrificTable";
         contact[2] = "E-Mail: terrifictable@terrifictable.xyz";
-        contact[3] = "Matrix: terrifictable.lol | matrix.terrifictable.pw";
+        contact[3] = "Matrix: http://terrifictable.lol | https://matrix.terrifictable.pw";
         
         links[0]    = "https://linktr.ee/TerrificTable55";
         links[1]    = "https://terrifictable.github.io";
