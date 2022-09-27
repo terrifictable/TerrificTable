@@ -56,6 +56,7 @@ public class GitHub {
         languages[11]   = "VLang";
         languages[12]   = "Rust";
         languages[13]   = "Nim";
+        lanugages[14]   = "x64/x86 Assembly";
         
         projects[0]     = "A terminal / console...";
         info[1]         = "Most of my projects, I start and never finish... or work on again";
@@ -90,10 +91,11 @@ public class GitHub {
     <summary>GitHub Stats</summary>
     <img src="https://github-profile-trophy.vercel.app/?username=TerrificTable">
     <br><br>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=dracula">
     <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
-    <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
+    <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg"> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&show_icons=true&theme=omni&langs_count=1000&layout=compact">
+    <img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TerrificTable&&show_icons=true&theme=dracula&layout=compact" />
     <br>
-    <img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
-    </br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="TerrificTable" /> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=dracula&layout=compact" alt="TerrificTable" /> 
 </details>
