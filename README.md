@@ -28,7 +28,7 @@ public class GitHub {
      * I constantly try to use programing languages I don't know
      * I like to learn
      *
-     * If you want to collab with me, dm me on Discord
+     * If you want to collab with me, dm me on Discord or Matrix
      */
     public static void main(String[] args) {
 
