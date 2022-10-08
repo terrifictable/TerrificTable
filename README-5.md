@@ -84,31 +84,6 @@ public class GitHub {
 
 ```
 
-<details align="center">
-    <summary>Language Badges</summary>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOE+V08GLTnEUxvHPyTQKqYnQpNBIyYKyEaspNQsbOyULC0uLiYXIxoKVkC2lZGVBk5WEspA/gMyGKEkzTWpCM6KjM/2u8nqNmVO3e7v3nu85z3POL/wnMjNwDA8jYqr39/q4aGTmGlzFlYh4vSxASz6D3TgaEV+WDMjMLa3ytqqOGTzrhfSV0CrfxrpKwnpcX7KEzBzFDZzFOZyKiKf9zPpXB3twC5da+xci4uZyAAW+iLfYi604HBHzi5qYmRuwC3N4gxEMYSeuYUeB8KKT9IeEzDyN8WbcS3zHML7hPR7hEI7UvSbSCyjXj+MAJvGzJRfoMWqRzmMTTpakv0xsEzjRtBag4isetOfq6H5E1F7oBygfLuMzPmGwJd7Bu4jooAuvFwCZuaJWFZX8HNuxH2ubjDJ0Ah+bya+6g9UBVraZ72vuT2O2VR5AFViNVfiBJ7hX3fyWkJkF2YwxHMTGllCcgpXmuj7gbrfWvwDownkRrwSiYQAAAABJRU5ErkJggg==)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![C#](https://img.shields.io/badge/-C%23-9A4F96?style=flat-square&logo=csharp)
-![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Nim](https://img.shields.io/badge/-Nim-black?style=flat-square&logo=nim)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-![VLang](https://img.shields.io/badge/-VLang-black?style=flat-square&logo=v)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Assembler](https://img.shields.io/badge/x64%2Fx86%20Assembly-black)
-![Brainfuck](https://img.shields.io/badge/-Brainfuck-black?style=flat-square&logo=bf)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash)
-<br><br><br>
-</details>
-<br>
 
 
 
