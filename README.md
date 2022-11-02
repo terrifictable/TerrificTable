@@ -119,7 +119,7 @@ public class GitHub {
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=dracula">
     <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
     <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg"> -->
-    <img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TerrificTable&&show_icons=true&theme=dracula&layout=compact" />
+    <img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=dracula&layout=compact" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=dracula&layout=compact" alt="TerrificTable" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&show_icons=true&theme=omni&langs_count=1000&layout=compact"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&show_icons=true&bg_color=00000000&hide_border=true&&theme=omni&langs_count=1000&layout=compact"><br>
 </details>
