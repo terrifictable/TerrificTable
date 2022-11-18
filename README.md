@@ -87,7 +87,7 @@ public class GitHub {
 <details align="center">
     <summary>Language Badges</summary>
 
-![![Icons](https://skillicons.dev/icons?i=python,java,kotlin,bash,go,c,cpp,nim,js,html,css,cs,php,vlang,rust,cmake,maven,docker,kubernetes,grafana,materialui,git,gitlab,github,idea,neovim,vscode,visualstudio,photoshop,illustrator,&theme=dark&perline=10)](https://skillicons.dev)
+[![Icons](https://skillicons.dev/icons?i=python,java,kotlin,bash,go,c,cpp,nim,js,html,css,cs,php,vlang,rust,cmake,maven,docker,kubernetes,grafana,materialui,git,gitlab,github,idea,neovim,vscode,visualstudio,photoshop,illustrator,&theme=dark&perline=10)](https://skillicons.dev)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOE+V08GLTnEUxvHPyTQKqYnQpNBIyYKyEaspNQsbOyULC0uLiYXIxoKVkC2lZGVBk5WEspA/gMyGKEkzTWpCM6KjM/2u8nqNmVO3e7v3nu85z3POL/wnMjNwDA8jYqr39/q4aGTmGlzFlYh4vSxASz6D3TgaEV+WDMjMLa3ytqqOGTzrhfSV0CrfxrpKwnpcX7KEzBzFDZzFOZyKiKf9zPpXB3twC5da+xci4uZyAAW+iLfYi604HBHzi5qYmRuwC3N4gxEMYSeuYUeB8KKT9IeEzDyN8WbcS3zHML7hPR7hEI7UvSbSCyjXj+MAJvGzJRfoMWqRzmMTTpakv0xsEzjRtBag4isetOfq6H5E1F7oBygfLuMzPmGwJd7Bu4jooAuvFwCZuaJWFZX8HNuxH2ubjDJ0Ah+bya+6g9UBVraZ72vuT2O2VR5AFViNVfiBJ7hX3fyWkJkF2YwxHMTGllCcgpXmuj7gbrfWvwDownkRrwSiYQAAAABJRU5ErkJggg==)
