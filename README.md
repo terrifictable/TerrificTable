@@ -7,6 +7,7 @@
 
 [![Matrix](https://matrix.org/images/matrix-logo.svg)](http://terrifictable.lol)
 [![KeyBase](https://keybase.io/images/icons/icon-keybase-logo-48.png)](https://keybase.io/TerrificTable55)
+[![GitLab](https://img.icons8.com/color/48/gitlab.png)](https://gitlab.com/TerrificTable)
 [![Twtitter](https://img.icons8.com/fluency/48/twitter.png)](https://twitter.com/TerrificTable)
 [![Linktree](https://img.icons8.com/color/48/linktree.png)](https://linktr.ee/TerrificTable55)
 [![TerrificTable.xyz](https://img.icons8.com/external-outline-stroke-bomsymbols-/48/external-earth-location-outline-outline-stroke-bomsymbols-.png)](https://terrifictable.xyz)
