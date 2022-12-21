@@ -9,8 +9,8 @@
 [![KeyBase](https://keybase.io/images/icons/icon-keybase-logo-48.png)](https://keybase.io/TerrificTable55)
 [![Twtitter](https://img.icons8.com/fluency/48/twitter.png)](https://twitter.com/TerrificTable)
 [![Linktree](https://img.icons8.com/color/48/linktree.png)](https://linktr.ee/TerrificTable55)
-[![TerrificTable.xyz](https://user-images.githubusercontent.com/85793326/208920096-ef32cf47-986e-45c2-a170-3c1b4c2123c3.png)](https://terrifictable.xyz)
-[![TerrificTable.pw](https://user-images.githubusercontent.com/85793326/208920096-ef32cf47-986e-45c2-a170-3c1b4c2123c3.png)](https://terrifictable.pw)
+[![TerrificTable.xyz](assets/Download.png)](https://terrifictable.xyz)
+[![TerrificTable.pw](assets/Download.png)](https://terrifictable.pw)
 
 </div>
 <br><br>
