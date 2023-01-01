@@ -31,5 +31,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=TerrificTable">
     <br><br>
     <img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=dracula&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&show_icons=true&bg_color=00000000&hide_border=true&&theme=omni&langs_count=1000&layout=compact"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&show_icons=true&bg_color=00000000&hide_border=true&&theme=omni&langs_count=1000&layout=compact&exclude_repo=dwm"><br>
 </details>
