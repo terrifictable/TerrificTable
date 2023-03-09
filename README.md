@@ -20,9 +20,13 @@
 
 <div align="center">
 
-[![Icons](https://skillicons.dev/icons?i=python,java,kotlin,bash,go,c,cpp,nim,js,html,css,cs,php,vlang,rust,cmake,maven,docker,kubernetes,grafana,materialui,git,gitlab,github,idea,neovim,vscode,visualstudio,photoshop,illustrator,&theme=dark&perline=10)](https://skillicons.dev)
+[![Icons](https://skillicons.dev/icons?i=linux,python,java,kotlin,bash,go,c,cpp,nim,js,html,css,cs,php,vlang,rust,cmake,maven,docker,kubernetes,grafana,materialui,git,gitlab,github,idea,neovim,vscode,visualstudio,photoshop,illustrator,&theme=dark&perline=11)](https://skillicons.dev)
 </div>
 
+<div align="center">
+    <h3>My Cat</h3>
+    <img width="400" src="https://user-images.githubusercontent.com/85793326/224039085-7375400f-a38a-4e4d-aacc-fe1d5b7b4e38.jpg">
+</div>
 
 
 <details align="center">
