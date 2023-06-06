@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Icons](https://skillicons.dev/icons?i=linux,python,java,kotlin,bash,go,c,cpp,nim,js,html,css,cs,php,vlang,rust,cmake,maven,docker,kubernetes,grafana,materialui,git,gitlab,github,idea,neovim,vscode,visualstudio,photoshop,illustrator,&theme=dark&perline=11)](https://skillicons.dev)
+[![Icons](https://skillicons.dev/icons?i=linux,python,java,kotlin,bash,go,c,cpp,nim,js,html,css,php,cmake,maven,docker,kubernetes,grafana,git,gitlab,github,idea,neovim,vscode,photoshop&theme=dark&perline=11)](https://skillicons.dev)
 </div>
 
 <div align="center">
