@@ -24,7 +24,6 @@
 -->
 
 <div align="center">
-    <h3>My Cat</h3>
     <img width="400" src="https://user-images.githubusercontent.com/85793326/224039085-7375400f-a38a-4e4d-aacc-fe1d5b7b4e38.jpg">
 </div>
 
