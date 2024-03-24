@@ -1,8 +1,8 @@
 <div align="center">
-    <h1>TerrificTable55</h1>
+    <h1>terrifictable</h1>
 </div>
 
-
+<!--
 <div align="center">
 
 [![Matrix](https://matrix.org/images/matrix-logo.svg)](http://terrifictable.lol)
@@ -19,7 +19,9 @@
 <div align="center">
 
 [![Icons](https://skillicons.dev/icons?i=linux,python,java,kotlin,bash,go,c,cpp,nim,js,html,css,php,cmake,maven,docker,kubernetes,grafana,git,gitlab,github,idea,neovim,vscode,photoshop&theme=dark&perline=11)](https://skillicons.dev)
+
 </div>
+-->
 
 <div align="center">
     <h3>My Cat</h3>
