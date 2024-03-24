@@ -26,7 +26,7 @@
     <img width="400" src="https://user-images.githubusercontent.com/85793326/224039085-7375400f-a38a-4e4d-aacc-fe1d5b7b4e38.jpg">
 </div>
 
-
+<!--
 <details align="center">
     <summary>Stats</summary>
     <img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square"><br>
@@ -35,3 +35,4 @@
     <img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=dracula&layout=compact" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&show_icons=true&bg_color=00000000&hide_border=true&&theme=omni&langs_count=1000&layout=compact&exclude_repo=dwm"><br>
 </details>
+-->
