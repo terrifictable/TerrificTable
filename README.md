@@ -1,8 +1,8 @@
-<div align="center">
+<!--<div align="center">
     <h1>terrifictable</h1>
 </div>
 
-<!--
+
 <div align="center">
 
 [![Matrix](https://matrix.org/images/matrix-logo.svg)](http://terrifictable.lol)
